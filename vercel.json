@@ -9,11 +9,11 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "templates/index.html"
     },
     {
       "src": "/start_threads",
-      "dest": "/results.html"
+      "dest": "templates/results.html"
     }
   ],
   "framework": {
