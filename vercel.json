@@ -16,5 +16,4 @@
       "dest": "templates/results.html"
     }
   ],
-  "framework": "flask"
 }
