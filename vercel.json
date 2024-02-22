@@ -15,5 +15,5 @@
       "src": "/start_threads",
       "dest": "templates/results.html"
     }
-  ],
+  ]
 }
