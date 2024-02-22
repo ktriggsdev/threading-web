@@ -16,8 +16,5 @@
       "dest": "templates/results.html"
     }
   ],
-  "framework": {
-    "name": "flask",
-    "version": "2.2.2"
-  }
+  "framework": "flask"
 }
